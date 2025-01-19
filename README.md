@@ -1,0 +1,1 @@
+Learning use of git and github so that we can know how to collaborate remotely on a project with others.
